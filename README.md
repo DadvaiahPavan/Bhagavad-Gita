@@ -2,6 +2,12 @@
 
 A modern web application providing an interactive and accessible way to explore the teachings of the Bhagavad Gita. Built with React, TypeScript, and Tailwind CSS.
 
+![Image 1](https://i.ibb.co/C8nxDrh/Screenshot-2024-12-06-143135.png)
+![Image 2](https://i.ibb.co/9WVBbG2/Screenshot-2024-12-06-143149.png)
+![Image 3](https://i.ibb.co/GJX2Vg0/Screenshot-2024-12-06-143210.png)
+![Image 4](https://i.ibb.co/yyyCzvT/Screenshot-2024-12-06-143223.png)
+
+
 ## ✨ Features
 
 - 📖 Browse all 18 chapters of the Bhagavad Gita
