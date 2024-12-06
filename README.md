@@ -119,6 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [pavannetha219@gmail.com](mailto:pavannetha219@gmail.com)
+Pavan Dadvaiah - [pavannetha219@gmail.com](mailto:pavannetha219@gmail.com)
 
 Project Link: [https://github.com/DadvaiahPavan/Bhagavad-Gita.git](https://github.com/DadvaiahPavan/Bhagavad-Gita.git)
